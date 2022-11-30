@@ -1,0 +1,20 @@
+/* Mobile */
+.galeria__box__container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 1.2rem;
+    line-height: 1.4;
+}
+
+.galeria__box__precio, .galeria__box__link {
+    font-weight: 550;
+}
+
+.galeria__box {
+    margin-bottom: 1rem;
+}
+
+.galeria__box_product {
+    width: 40vw;
+}

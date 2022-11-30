@@ -1,0 +1,6 @@
+/* Sección footeer Multipantalla*/
+section.footer{
+    padding: 2rem;
+    text-align: center;
+    background-color: var(--color-box);
+}

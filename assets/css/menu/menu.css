@@ -1,0 +1,28 @@
+/* Mobile */
+section.menu {
+    align-items: center;
+    background-color: var(--color-box);
+    display: flex;
+    font-size: 1.1rem;
+    justify-content: space-between;
+    padding: 1.2rem;
+}
+
+.menu__busqueda {
+    display: none;
+}
+
+.menu__boton {
+    background-color: var(--color-box);
+    border: 1px solid var(--color-link);
+    box-shadow: none;
+    box-sizing: border-box;
+    color: var(--color-link);
+    cursor: pointer;
+    height: 3rem;
+    width: 10rem;
+}
+
+.menu__icono {
+    width: 1.9rem;
+}

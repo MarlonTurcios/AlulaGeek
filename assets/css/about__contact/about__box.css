@@ -1,0 +1,22 @@
+/* Mobile */
+.about__box {
+    align-items: center;
+    display: flex;
+    font-size: 1.7rem;
+}
+
+.about__box__logo {
+    width: 3.5rem;
+}
+
+.about__box__tittle {
+    font-weight: 600;
+}
+
+.about__box__tittle--color {
+    color: var(--color-link);
+}
+
+/* Tablet */
+@media (min-width: 665px) {
+}

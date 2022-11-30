@@ -1,0 +1,14 @@
+/* Mobile */
+.menu__box {
+    align-items: center;
+    display: flex;
+}
+
+.menu__box__tittle {
+    font-weight: 600;
+    text-shadow: 0px 4px 4px var(--color-sombra);
+}
+
+.menu__box__tittle--color {
+    color: var(--color-link);
+}
